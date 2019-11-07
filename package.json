@@ -1,0 +1,15 @@
+{
+  "name": "mulo-loader-compiler",
+  "version": "1.0.0",
+  "description": "mulo code compiler",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mulo",
+    "loader"
+  ],
+  "author": "",
+  "license": "ISC"
+}
